@@ -4,87 +4,87 @@
         {
             "level": "H1",
             "text": "Revision History ",
-            "page": 2
-        },
-        {
-            "level": "H1",
-            "text": "Table of Contents ",
             "page": 3
         },
         {
             "level": "H1",
-            "text": "Acknowledgements ",
+            "text": "Table of Contents ",
             "page": 4
         },
         {
             "level": "H1",
-            "text": "1. Introduction to the Foundation Level Extensions ",
+            "text": "Acknowledgements ",
             "page": 5
         },
         {
             "level": "H1",
-            "text": "2. Introduction to Foundation Level Agile Tester Extension ",
+            "text": "1. Introduction to the Foundation Level Extensions ",
             "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "2. Introduction to Foundation Level Agile Tester Extension ",
+            "page": 7
         },
         {
             "level": "H2",
             "text": "2.1 Intended Audience ",
-            "page": 6
+            "page": 7
         },
         {
             "level": "H2",
             "text": "2.2 Career Paths for Testers ",
-            "page": 6
+            "page": 7
         },
         {
             "level": "H2",
             "text": "2.3 Learning Objectives ",
-            "page": 6
+            "page": 7
         },
         {
             "level": "H2",
             "text": "2.4 Entry Requirements ",
-            "page": 7
+            "page": 8
         },
         {
             "level": "H2",
             "text": "2.5 Structure and Course Duration ",
-            "page": 7
+            "page": 8
         },
         {
             "level": "H2",
             "text": "2.6 Keeping It Current ",
-            "page": 8
+            "page": 9
         },
         {
             "level": "H1",
             "text": "3. Overview of the Foundation Level Extension \u2013 Agile TesterSyllabus ",
-            "page": 9
+            "page": 10
         },
         {
             "level": "H2",
             "text": "3.1 Business Outcomes ",
-            "page": 9
+            "page": 10
         },
         {
             "level": "H2",
             "text": "3.2 Content ",
-            "page": 9
+            "page": 10
         },
         {
             "level": "H1",
             "text": "4. References ",
-            "page": 11
+            "page": 12
         },
         {
             "level": "H2",
             "text": "4.1 Trademarks ",
-            "page": 11
+            "page": 12
         },
         {
             "level": "H2",
             "text": "4.2 Documents and Web Sites ",
-            "page": 11
+            "page": 12
         }
     ]
 }
